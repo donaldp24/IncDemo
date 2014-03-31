@@ -16,7 +16,7 @@ import java.security.InvalidParameterException;
 /**
  * Created by donald on 2/21/14.
  */
-public class BaseFormulaActivity extends BaseActivity {
+public class BaseFormulaActivity extends Activity {
 
 
     protected Application mApplication = null;
