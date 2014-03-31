@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+			  android:id="@+id/layout_main"
+			  android:orientation="vertical"
+			  android:layout_width="800px"
+			  android:layout_height="480px"
+			  android:background="@drawable/background"
+		>
+
+	<Button
+			android:id="@+id/btn_hp"
+			android:layout_marginLeft="0px"
+			android:layout_marginTop="70px"
+			android:layout_width="314px"
+			android:layout_height="200px"
+			android:background="@drawable/button1"
+			/>
+
+
+	<Button
+			android:id="@+id/btn_epson"
+			android:layout_marginLeft="486px"
+			android:layout_marginTop="50px"
+			android:layout_width="314px"
+			android:layout_height="250px"
+			android:background="@drawable/button2"
+			/>
+
+</RelativeLayout>
+
